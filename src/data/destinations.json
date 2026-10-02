@@ -1,0 +1,5 @@
+[
+  { "id": "college-entrance", "name": "College Entrance", "lat": 12.334235414971982, "lng": 79.7798800120999, "icon": "entrance" },
+  { "id": "aavin-canteen", "name": "Aavin Canteen", "lat": 12.33392034763394, "lng": 79.78201581923086, "icon": "food" },
+  { "id": "medical-hospital", "name": "Medical Hospital", "lat": 12.333622382051173, "lng": 79.78164300474067, "icon": "hospital" }
+]
